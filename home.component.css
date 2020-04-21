@@ -1,0 +1,45 @@
+.division{
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin: 30px 10px 5px 20px;
+	background-color: #808080;
+}
+.devank{
+	float: left;
+	width: 630px;
+	height: 530px;
+	margin-left: 2px;
+}
+.facility{
+	margin-left: 70px;
+	color: black;
+}
+.features{
+	width: 150px;
+	height: 150px;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+.division:hover{
+	background-color: #696969;
+}
+#business{
+	
+	height: 300px;
+	width: 200px;
+	border-radius: 50%;
+
+}
+.star{
+	float: left;
+	height: 20px;
+	width: 20px;
+}
+.credit{
+	float: left;
+	margin-left: 370px;
+}
+.starmargin{
+	margin-left: 830px;
+}
